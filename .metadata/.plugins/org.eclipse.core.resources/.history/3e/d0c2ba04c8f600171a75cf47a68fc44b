@@ -1,0 +1,34 @@
+package libreria;
+
+class Libro{
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+public class Inicio {
+
+	public Inicio() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}//cierre del main
+
+}//cierre del class

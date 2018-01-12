@@ -1,0 +1,81 @@
+package libreria;
+
+class Libro{
+	
+	//variables miembro 
+		String titulo;
+		String autor;
+		String editorial;
+
+	//constructor
+		public Libro(String titulo, String autor, String editorial) {
+			titulo="no definido";
+			autor="no definido";
+			editorial="no definido";	
+		}
+		
+	//geters y seters
+		public String getTitulo() {
+			return titulo;
+		}
+
+		public void setTitulo(String titulo) {
+			this.titulo = titulo;
+		}
+
+		public String getAutor() {
+			return autor;
+		}
+
+		public void setAutor(String autor) {
+			this.autor = autor;
+		}
+
+		public String getEditorial() {
+			return editorial;
+		}
+
+		public void setEditorial(String editorial) {
+			this.editorial = editorial;
+		}
+
+		
+		public void lee_libro() {
+			
+			System.out.println("Te has leido el libro");
+		}
+		
+		
+
+	
+	
+	 
+	
+	
+	
+}//cierre class libro
+
+
+
+
+
+
+public class Inicio {
+
+	public Inicio() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}//cierre del main
+
+}//cierre del class

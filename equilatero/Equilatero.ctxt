@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Equilatero
+comment0.text=\r\n\ Esto\ es\ un\ primer\ proyecto\ con\ BlueJ.\r\n\ \r\n\ @author\ (Oscar\ G)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=l1\ l2\ l3
+comment1.target=Equilatero(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Equilatero\r\n
+comment2.params=
+comment2.target=int\ contador_eq()
+comment3.params=
+comment3.target=void\ mostrar()
+numComments=4

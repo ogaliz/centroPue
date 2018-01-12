@@ -1,0 +1,39 @@
+package provaNIF;
+
+public class NIF extends DNI {
+	private char nif; 
+	private static String num_nif;
+
+	public NIF() {
+		num_nif = new String("TRWAGMYFPDXBNJZSQVHLCKET");
+	}
+	/** 
+	* Calcula la lletra corresponent al DNI guardat, i modifica l'atribut lletra 
+	* convenientment. 
+	*/ 
+	public void calcularLletra() { 
+	Integer i = new Integer(getDNI()); 
+	int valor = (i.intValue()/23); 
+	int valor2 = valor*23; 
+	int valor3 = i.intValue()-valor2; 
+	nif = num_nif.charAt(valor3); 
+	} 
+
+	/** 
+	* Redefinició del mètode de forma que cada cop que es modifiqui el valor 
+	* del DNI es calculi de manera automàtica la lletra del NIF. 
+	* 
+	* @param valor del nou dni 
+
+	*/ 
+	public void setDNI(String dni) { 
+	super.setDNI(dni); 
+	calcularLletra(); 
+	} 
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}

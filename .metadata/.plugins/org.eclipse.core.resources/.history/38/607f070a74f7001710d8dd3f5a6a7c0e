@@ -1,0 +1,20 @@
+package metodos;
+
+public class Alumno {
+
+	public Alumno() {
+		
+		System.err.println("esto es un error");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}//cierre del main
+
+}//cierre del class

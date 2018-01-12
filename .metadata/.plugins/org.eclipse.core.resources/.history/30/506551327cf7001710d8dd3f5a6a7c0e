@@ -1,0 +1,25 @@
+package metodos;
+
+public class Alumno {
+
+	public static void main(String[] args) {
+		
+		String frase = "Hola mundo Java";
+		
+		int prueba = frase.codePointAt(3);
+	
+		
+		System.out.println("esto es un error");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}//cierre del main
+
+}//cierre del class

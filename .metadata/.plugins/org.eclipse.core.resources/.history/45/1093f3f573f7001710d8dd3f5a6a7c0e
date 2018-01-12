@@ -1,0 +1,20 @@
+package metodos;
+
+public class Alumno {
+
+	public Alumno() {
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}//cierre del main
+
+}//cierre del class

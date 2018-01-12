@@ -1,0 +1,14 @@
+package provaNIF;
+
+public class NIF extends DNI {
+
+	public NIF() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

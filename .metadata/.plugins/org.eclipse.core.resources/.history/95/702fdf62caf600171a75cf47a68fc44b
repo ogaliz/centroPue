@@ -1,0 +1,59 @@
+package libreria;
+
+class Libro{
+	
+	//variables miembro 
+		String titulo;
+		String autor;
+		String editorial;
+		int ano;
+		double vendidos;
+		double coste;
+		String isbn;
+
+	//constructor
+		public Libro() {
+			String titulo="no definido";
+			String autor="no definido";
+			String editorial="no definido";
+			int ano;
+			double vendidos;
+			double coste;
+			String isbn;	
+		}
+
+	
+	
+	 
+	
+	
+	
+}//cierre class libro
+
+
+
+
+
+
+public class Inicio {
+
+	public Inicio() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		
+		Libro lib1 = new Libro();
+		Libro lib2 = new Libro();
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}//cierre del main
+
+}//cierre del class
