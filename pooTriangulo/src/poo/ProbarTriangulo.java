@@ -40,6 +40,8 @@ public class ProbarTriangulo {
 		
 		System.out.println("El perimetro del triangulo 3 es "+tri3.perimetro());
 		
+		Utiles.imprimir("Se ha terminado el programa, impreso desde metodo estatico");
+		
 		teclado.close();
 				
 	}//cierre del main
