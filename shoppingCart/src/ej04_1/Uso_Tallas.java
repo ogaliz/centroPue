@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Uso_Tallas {
 
 /**
- * Video 48, tipos enumerados. Creamos una clase donde nos aseguremos que solo podemos almacenar
+ * Video 48 PI, tipos enumerados. Creamos una clase donde nos aseguremos que solo podemos almacenar
  * un determinado tipo de valores. 
  * Esto es, una variable objeto de tipo Enum.
  * Se debe de declarar siempre fuera del metodo main.

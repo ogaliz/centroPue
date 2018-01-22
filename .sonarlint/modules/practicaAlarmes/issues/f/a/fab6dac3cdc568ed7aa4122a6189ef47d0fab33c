@@ -1,0 +1,27 @@
+
+Osquid:S1643Õ"Use a StringBuilder instead.(ÿÀŠ…ûÿÿÿÿH•RMINORZ
+CODE_SMELL
+|squid:S1206¼"PThis class overrides "equals()" and should therefore also override "hashCode()".(”îé˜ıÿÿÿÿH–RMINORZBUG
+k
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(úÊ¶úúÿÿÿÿH—RMAJORZ
+CODE_SMELL
+e
+squid:S106©"9Replace this use of System.out or System.err by a logger.(Äóî@H˜RMAJORZ
+CODE_SMELL
+k
+squid:S106±"9Replace this use of System.out or System.err by a logger.(ÈÄµÅøÿÿÿÿH™RMAJORZ
+CODE_SMELL
+ºsquid:S2681Æ"†This line will not be executed conditionally; only the first line of this 5-line block will be. The rest will execute unconditionally.(Ğ«ï¯ÿÿÿÿÿHšRMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H›RMINORZ
+CODE_SMELL
+Vsquid:S1481Î"(Remove this unused "ser" local variable.(»Ö‡HœRMINORZ
+CODE_SMELL
+squid:S00116	"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšıÿÿÿÿHRMINORZ
+CODE_SMELL
+isquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕHRMINORZ
+CODE_SMELL
+’squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(™Ü‚ıHŸRMAJORZ
+CODE_SMELL
+’squid:S1149R"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(’ÌïîH RMAJORZ
+CODE_SMELL

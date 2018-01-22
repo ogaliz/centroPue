@@ -1,0 +1,17 @@
+
+squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Î ÉHªRMINORZ
+CODE_SMELL
+€squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŒÁ’üùÿÿÿÿH«RMINORZ
+CODE_SMELL
+osquid:S1854";Remove this useless assignment to local variable "teclado".(ïü®Š8 ŸÀè‘,H¬RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÌäÙ¤H­RMAJORZ
+CODE_SMELL
+j
+squid:S106%"9Replace this use of System.out or System.err by a logger.(µÃâŽûÿÿÿÿH®RMAJORZ
+CODE_SMELL
+csquid:S1135	"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH¯RINFOZ
+CODE_SMELL
+`squid:S1481",Remove this unused "teclado" local variable.(ïü®Š8 ŸÀè‘,H°RMINORZ
+CODE_SMELL
