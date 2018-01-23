@@ -1,0 +1,5 @@
+
+"squid:ClassVariableVisibilityCheck"OMake dni a static final constant or non-public and provide accessors if needed.(›¤›ή8ÿ£ί”’,H³RMINORZVULNERABILITY
+½squid:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ή‹†δώÿÿÿÿ8ΰψτ”’,HΓRCRITICALZ
+CODE_SMELL
+¦"squid:ClassVariableVisibilityCheck"XMake nombreAlumno a static final constant or non-public and provide accessors if needed.(­βε‘8τ΅”•’,HΙRMINORZVULNERABILITY

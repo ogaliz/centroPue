@@ -1,0 +1,10 @@
+
+¥"squid:ClassVariableVisibilityCheck"WMake asignaturas a static final constant or non-public and provide accessors if needed.(ÒÇüÍ8´•¿•’,HäRMINORZVULNERABILITY
+¥"squid:ClassVariableVisibilityCheck"RMake nombre a static final constant or non-public and provide accessors if needed.(¯‰–‚úÿÿÿÿ8²á•’,HÆRMINORZVULNERABILITY
+^squid:S001083")Either remove or fill this block of code.(çó‘Œ8ÌÕí•’,HéRMAJORZ
+CODE_SMELL
+usquid:S1444	"9Make this "public static cantidadAsignaturas" field final(¹­ûÿÿÿÿ8ÕÅ¥•’,HÌRMINORZVULNERABILITY
+Tsquid:S2386"Make this member "protected".(ÒÇüÍ8ÌÕí•’,HêRMINORZVULNERABILITY
+²"squid:ClassVariableVisibilityCheck	"_Make cantidadAsignaturas a static final constant or non-public and provide accessors if needed.(¹­ûÿÿÿÿ8ÕÅ¥•’,HÍRMINORZVULNERABILITY
+hsquid:S1444"1Make this "public static asignaturas" field final(ÒÇüÍ8ÌÕí•’,HèRMINORZVULNERABILITY
+¥"squid:ClassVariableVisibilityCheck"RMake codigo a static final constant or non-public and provide accessors if needed.(é©Ç­ûÿÿÿÿ8²á•’,HÇRMINORZVULNERABILITY

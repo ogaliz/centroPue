@@ -1,0 +1,19 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß…£¼8Ã…´•’,HßRMAJORZ
+CODE_SMELL
+lsquid:S1854"8Remove this useless assignment to local variable "filo".(ÛÏ¤§8£ß®•’,HÕRMAJORZ
+CODE_SMELL
+^squid:S1481"*Remove this unused "mates" local variable.(š•Ôö8£ß®•’,HÓRMINORZ
+CODE_SMELL
+msquid:S1854"9Remove this useless assignment to local variable "mates".(š•Ôö8£ß®•’,HÖRMAJORZ
+CODE_SMELL
+]squid:S1481")Remove this unused "filo" local variable.(ÛÏ¤§8£ß®•’,HÔRMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH°RINFOZ
+CODE_SMELL
+‹squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÍ¯ˆþÿÿÿÿ8Âöã”’,H¹RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(§Ò¹£8ýšì”’,H¿RMAJORZ
+CODE_SMELL
