@@ -3,7 +3,6 @@
 <fullyQualifiedTypeName name="libreria.Libro"/>
 <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicInternalFrameTitlePane.MaximizeAction"/>
 <fullyQualifiedTypeName name="java.math.BigDecimal"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="poo.Triangulo"/>
 <fullyQualifiedTypeName name="poo.Utiles"/>
 <fullyQualifiedTypeName name="ej04_1.Uso_Tallas.Talla"/>
@@ -15,9 +14,18 @@
 <fullyQualifiedTypeName name="funcionescortas.recorrerArray"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="pruebas.MetodosUtiles"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="contenido.Alumno"/>
 <fullyQualifiedTypeName name="contenido.Asignatura"/>
-<fullyQualifiedTypeName name="java.lang.Object"/>
 <fullyQualifiedTypeName name="funcionescortas.Item"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+<fullyQualifiedTypeName name="javax.print.attribute.standard.PrinterMessageFromOperator"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="funcionescortas.RecorrerBuilder"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="coches.Matricula"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
 </qualifiedTypeNameHistroy>

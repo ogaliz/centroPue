@@ -1,12 +1,12 @@
 
-§"squid:ClassVariableVisibilityCheck"TMake quantity a static final constant or non-public and provide accessors if needed.(Ιτ£ίύÿÿÿÿ8 ύθμ‘,HRMINORZVULNERABILITY
-‡squid:S00116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Γ‚ύύÿÿÿÿ8 ύθμ‘,H—RMINORZ
+"squid:ClassVariableVisibilityCheck"QMake price a static final constant or non-public and provide accessors if needed.(Άμ­ 8 ύθμ‘,HRMINORZVULNERABILITY
+§"squid:ClassVariableVisibilityCheck"TMake quantity a static final constant or non-public and provide accessors if needed.(Ιτ£ίύÿÿÿÿ8 ύθμ‘,H‘RMINORZVULNERABILITY
+‡squid:S00116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ΩΥψÿÿÿÿ8 ύθμ‘,H’RMINORZ
 CODE_SMELL
-q
-squid:S106%"9Replace this use of System.out or System.err by a logger.(ρÒ§σόÿÿÿÿ8ÿΎΒ–’,HύRMAJORZ
+΅"squid:ClassVariableVisibilityCheck"NMake ID a static final constant or non-public and provide accessors if needed.(Γ‚ύύÿÿÿÿ8 ύθμ‘,H“RMINORZVULNERABILITY
+¥"squid:ClassVariableVisibilityCheck"WMake descripcion a static final constant or non-public and provide accessors if needed.(ΉΛώ8ΡΞ•–’,H”RMINORZVULNERABILITY
+½squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ψη½χόÿÿÿÿ8‹°ƒ—’,H•RCRITICALZ
 CODE_SMELL
-"squid:ClassVariableVisibilityCheck"QMake price a static final constant or non-public and provide accessors if needed.(Άμ­ 8 ύθμ‘,H›RMINORZVULNERABILITY
-¥"squid:ClassVariableVisibilityCheck"WMake descripcion a static final constant or non-public and provide accessors if needed.(ΉΛώ8ΡΞ•–’,HσRMINORZVULNERABILITY
-΅"squid:ClassVariableVisibilityCheck"NMake ID a static final constant or non-public and provide accessors if needed.(Γ‚ύύÿÿÿÿ8 ύθμ‘,H™RMINORZVULNERABILITY
-½squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ψη½χόÿÿÿÿ8‹°ƒ—’,H†RCRITICALZ
+l
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ΆÒ½Ϊ8ÿΎΒ–’,H–RMAJORZ
 CODE_SMELL

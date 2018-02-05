@@ -1,4 +1,10 @@
 
 e
-squid:S106"9Replace this use of System.out or System.err by a logger.(‡¤ÅºHžRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡¤ÅºHß	RMAJORZ
+CODE_SMELL
+csquid:S1481"/Remove this unused "matricula1" local variable.(¹Ñƒì8Ê†¡â”,Hˆ
+RMINORZ
+CODE_SMELL
+rsquid:S1854">Remove this useless assignment to local variable "matricula1".(¹Ñƒì8Ê†¡â”,H‰
+RMAJORZ
 CODE_SMELL

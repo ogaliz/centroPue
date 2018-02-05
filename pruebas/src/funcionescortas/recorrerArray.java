@@ -6,7 +6,7 @@ public class recorrerArray {
 	
 	//constructor por defecto
 	public recorrerArray() {
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 	public static void recorre(int[]matriz) {
@@ -18,7 +18,7 @@ public class recorrerArray {
 			System.out.println("La posicion "+(i+1)+" del array es: "+matriz[i]);
 			
 		}
-		
+		teclado.close();
 	}
 	
 

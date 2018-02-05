@@ -1,11 +1,9 @@
 
-„squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š™ŸúşÿÿÿÿHŸRMINORZ
+squid:S1488@"aImmediately return this expression instead of assigning it to the temporary variable "autonomia".(»ªŠ*Hà	RMINORZ
 CODE_SMELL
-squid:S1488?"aImmediately return this expression instead of assigning it to the temporary variable "autonomia".(»ªŠ*H RMINORZ
+„squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š™ŸúşÿÿÿÿHá	RMINORZ
 CODE_SMELL
-csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH¡RINFOZ
+„squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š™ŸúşÿÿÿÿHã	RMINORZ
 CODE_SMELL
-„squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š™ŸúşÿÿÿÿH¢RMINORZ
-CODE_SMELL
-„squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š™ŸúşÿÿÿÿH£RMINORZ
+„squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š™ŸúşÿÿÿÿHâ	RMINORZ
 CODE_SMELL

@@ -1,0 +1,18 @@
+
+isquid:S1444"-Make this "public static teclado" field final(‚ÊÕ˜ùÿÿÿÿ8ÉíØß”,H»	RMINORZVULNERABILITY
+¦"squid:ClassVariableVisibilityCheck"SMake teclado a static final constant or non-public and provide accessors if needed.(‚ÊÕ˜ùÿÿÿÿ8ÉíØß”,H½	RMINORZVULNERABILITY
+_squid:S1481"+Remove this unused "nombre" local variable.(ƒê¯Ž8Ê¶…à”,H×	RMINORZ
+CODE_SMELL
+nsquid:S1854":Remove this useless assignment to local variable "nombre".(ƒê¯Ž8Ê¶…à”,HØ	RMAJORZ
+CODE_SMELL
+q
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÉÇ³©ûÿÿÿÿ8ÉíØß”,H¼	RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Žƒæ¶ÿÿÿÿÿ8•ø¡à”,HÛ	RMAJORZ
+CODE_SMELL
+Xsquid:S3010"$Remove this assignment of "teclado".(÷¨ØÇ8ÉíØß”,Hº	RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÄâÈ™þÿÿÿÿ8ãä¢à”,HÝ	RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ôÞ²üÿÿÿÿ8ãä¢à”,HÞ	RMAJORZ
+CODE_SMELL

@@ -1,0 +1,24 @@
+
+Dsquid:S1700"Rename field "nif"(²¨ÿæúÿÿÿÿH¶RMAJORZ
+CODE_SMELL
+gsquid:S11611":Add the "@Override" annotation above this method signature(Á»›êH¸RMAJORZ
+CODE_SMELL
+lsquid:S1161"":Add the "@Override" annotation above this method signature(×İå½ùÿÿÿÿH·RMAJORZ
+CODE_SMELL
+e
+squid:S106H"9Replace this use of System.out or System.err by a logger.(÷ÖäÃH³RMAJORZ
+CODE_SMELL
+Qsquid:S3010"$Remove this assignment of "num_nif".(ä–‡ŠH°RMAJORZ
+CODE_SMELL
+e
+squid:S106C"9Replace this use of System.out or System.err by a logger.(÷ÖäÃH²RMAJORZ
+CODE_SMELL
+„squid:S3008"RRename this field "num_nif" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰°ÌÅıÿÿÿÿH±RMINORZ
+CODE_SMELL
+j
+squid:S106G"9Replace this use of System.out or System.err by a logger.(¼ˆŒ›ùÿÿÿÿH´RMAJORZ
+CODE_SMELL
+„squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Òø?HµRMINORZ
+CODE_SMELL
+Msquid:S2129" Remove this "String" constructor(ä–‡ŠH¹RMAJORZ
+CODE_SMELL

@@ -5,6 +5,7 @@ import java.io.*;
 public class NIF extends DNI {
 	private char nif;
 	private static String num_nif;
+	
 
 	public NIF() {
 		num_nif = new String("TRWAGMYFPDXBNJZSQVHLCKET");

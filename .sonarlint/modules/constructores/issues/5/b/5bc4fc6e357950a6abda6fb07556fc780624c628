@@ -1,0 +1,13 @@
+
+˜squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ıëb8úğÔ¾’,H×RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸîÚåûÿÿÿÿ8¶ÿù¾’,HëRMAJORZ
+CODE_SMELL
+Œsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıëb8úğÔ¾’,HÔRMINORZ
+CODE_SMELL
+½squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿ®—ıÿÿÿÿ8ø„¥¿’,HüRCRITICALZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8Ë÷–¿’,HúRMAJORZ
+CODE_SMELL
